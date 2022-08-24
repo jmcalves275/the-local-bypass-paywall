@@ -1,0 +1,14 @@
+{
+  "name": "The Local Extension",
+  "description": "Bypasses paywall of The Local (thelocal.de)",
+  "action": {},
+  "manifest_version": 3,
+  "version": "0.1",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
