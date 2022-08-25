@@ -25,4 +25,18 @@ ____
 Below you can find a video of how to use the extension.
 
 ![How to use extension GIF](assets/how-to-use.gif)
+___
 
+## Next steps
+- [ ] Remove paywall automatically without user interaction.
+
+## Contributing
+Feel like to contributing? Please feel free to [create a new PR](https://github.com/jmcalves275/the-local-bypass-paywall/pulls).
+
+Have questions? Please feel free to open a [new issue](https://github.com/jmcalves275/the-local-bypass-paywall/issues).
+
+Like the project? Star it :star: 
+
+____
+
+_Made with :heart: by [@jmcralves](https://twitter.com/jmcralves)_
