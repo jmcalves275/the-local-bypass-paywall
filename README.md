@@ -23,5 +23,6 @@ ____
    ![How to use extension PNG](assets/how-to-use.png)
 
 Below you can find a video of how to use the extension.
+
 ![How to use extension GIF](assets/how-to-use.gif)
 
