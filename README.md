@@ -38,3 +38,5 @@ Have questions? Please feel free to open a [new issue](https://github.com/jmcalv
 Like the project? Star it :star: 
 
 ____
+
+_Made with :heart: by [@jmcralves](https://twitter.com/jmcralves)_
